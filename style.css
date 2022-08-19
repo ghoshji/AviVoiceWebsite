@@ -1,0 +1,186 @@
+/* Index Page */
+.heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Home Page */
+.homePage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.instructor {
+    width: 600px;
+}
+
+.welcomeText {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.homePageChat {
+    display: flex;
+    justify-content: center;
+}
+
+.chatImage {
+    width: 300px;
+}
+
+.whyAvivoice {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.whyAvivoiceBody {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.coursesHeading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.courses {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px 20px;
+}
+
+.coursesContent {
+    background-color: rgb(222, 222, 222);
+    border-radius: 10px;
+    padding: 30px;
+    text-align: center;
+}
+
+.photoGallery {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.photoGalleryImages {
+    width: 100px;
+    border-radius: 10px;
+    gap: 30px 30px;
+    /* text-align: center; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section06 {
+    text-align: center;
+}
+
+.instructorHeading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+.instructorImage {
+    border-radius: 10px;
+    width: 200px;
+}
+
+/* About Us */
+.aboutUsBg {
+    background-color: rgb(224, 224, 224);
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.aboutUsHeading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin: 0px;
+}
+
+.aboutUsBody {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding: 40px;
+    padding-top: 0px;
+
+}
+
+.aboutUsLogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.HLIcon {
+    width: 50px;
+}
+
+.aboutUsHL {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* Cantact Us*/
+.contactUsBody {
+    text-align: center;
+}
+
+.contactUsHeading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.contactDetails {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 30px;
+}
+
+.contactUsIcons {
+    width: 50px;
+}
+
+.contactDetailsBody {
+    background-color: rgb(227, 227, 227);
+    border-radius: 10px;
+    padding: 100px;
+    width: 150px;
+}
+
+.liveInBalasore {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+.liveInBalasoreBody {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.address {
+    background-color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 30px;
+
+}
+
+.googleMapTag {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding: 30px;
+}

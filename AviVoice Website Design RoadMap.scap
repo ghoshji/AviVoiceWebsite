@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<ScappleDocument ID="28CAAE26-E3DC-437C-9F35-A99A2A1D94AB" Version="1.1">
+   <Notes>
+      <Note Width="99.1333" FontSize="12" ID="0" Position="664.1,98.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,9</FormatRange>
+         </Formatting>
+         <String>Home Page</String>
+         <ConnectedNoteIDs>14</ConnectedNoteIDs>
+         <PointsToNoteIDs>14</PointsToNoteIDs>
+      </Note>
+      <Note Width="104.712" FontSize="12" ID="1" Position="96.1,331.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,11</FormatRange>
+         </Formatting>
+         <String>No of Pages</String>
+         <ConnectedNoteIDs>2-5, 24</ConnectedNoteIDs>
+         <PointsToNoteIDs>2-5, 24</PointsToNoteIDs>
+      </Note>
+      <Note Width="93.4814" FontSize="12" ID="2" Position="239.1,218.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Home Page</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note Width="105.981" FontSize="12" ID="3" Position="280.5,288.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Photo Gallery</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note Width="146.741" FontSize="12" ID="4" Position="285.2,348.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>About Us/Instructor</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note Width="67.8711" FontSize="12" ID="5" Position="290.7,414.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Courses</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note Width="150.403" FontSize="12" ID="6" Position="1107.8,94.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,17</FormatRange>
+         </Formatting>
+         <String>Things to Prepare</String>
+         <ConnectedNoteIDs>7-11</ConnectedNoteIDs>
+         <PointsToNoteIDs>7-11</PointsToNoteIDs>
+      </Note>
+      <Note Width="43.7622" FontSize="12" ID="7" Position="999.2,147.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Logo</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note Width="69.4092" FontSize="12" ID="8" Position="1031.2,191.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Tag Line</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="9" Position="1211.7,198.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Photo of Krish Rajput Sir</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note Width="136.414" FontSize="12" ID="10" Position="1293.8,143.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Photo of Students</String>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Note>
+      <Note Width="79.9316" FontSize="12" ID="11" Position="1118.8,249.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,8</FormatRange>
+         </Formatting>
+         <String>Graphics</String>
+         <ConnectedNoteIDs>6, 12-13</ConnectedNoteIDs>
+         <PointsToNoteIDs>12-13</PointsToNoteIDs>
+      </Note>
+      <Note Width="110.803" FontSize="12" ID="12" Position="1053.1,319.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Course details</String>
+         <ConnectedNoteIDs>11</ConnectedNoteIDs>
+      </Note>
+      <Note Width="95.6055" FontSize="12" ID="13" Position="1207.8,319.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Infographics</String>
+         <ConnectedNoteIDs>11</ConnectedNoteIDs>
+      </Note>
+      <Note Width="214.062" FontSize="12" ID="14" Position="615.6,179.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Sliding Images with highlights about the Institute</String>
+         <ConnectedNoteIDs>0, 15</ConnectedNoteIDs>
+         <PointsToNoteIDs>15</PointsToNoteIDs>
+      </Note>
+      <Note Width="164.587" FontSize="12" ID="15" Position="632.8,262.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Quote and description</String>
+         <ConnectedNoteIDs>14, 16</ConnectedNoteIDs>
+         <PointsToNoteIDs>16</PointsToNoteIDs>
+      </Note>
+      <Note Width="180.469" FontSize="12" ID="16" Position="623.4,326.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Why choose AviVoice ?</String>
+         <ConnectedNoteIDs>15, 17</ConnectedNoteIDs>
+         <PointsToNoteIDs>17</PointsToNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="17" Position="625.0,385.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Highlights about the training methods</String>
+         <ConnectedNoteIDs>16, 18</ConnectedNoteIDs>
+         <PointsToNoteIDs>18</PointsToNoteIDs>
+      </Note>
+      <Note Width="192.188" FontSize="12" ID="18" Position="608.6,471.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Details about the courses</String>
+         <ConnectedNoteIDs>17, 19</ConnectedNoteIDs>
+         <PointsToNoteIDs>19</PointsToNoteIDs>
+      </Note>
+      <Note Width="105.981" FontSize="12" ID="19" Position="638.3,530.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Photo Gallery</String>
+         <ConnectedNoteIDs>18, 20</ConnectedNoteIDs>
+         <PointsToNoteIDs>20</PointsToNoteIDs>
+      </Note>
+      <Note Width="68.7988" FontSize="12" ID="20" Position="647.7,584.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Location</String>
+         <ConnectedNoteIDs>19, 21</ConnectedNoteIDs>
+         <PointsToNoteIDs>21</PointsToNoteIDs>
+      </Note>
+      <Note Width="68.7744" FontSize="12" ID="21" Position="648.4,640.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Reviews</String>
+         <ConnectedNoteIDs>20</ConnectedNoteIDs>
+      </Note>
+      <Note Width="229.688" FontSize="12" ID="22" Position="1078.9,443.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,47</FormatRange>
+         </Formatting>
+         <String>Check out how to integrate whatsapp to website.</String>
+      </Note>
+      <Note Width="103.76" FontSize="12" ID="23" Position="1084.4,545.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,10</FormatRange>
+         </Formatting>
+         <String>Adding Map</String>
+      </Note>
+      <Note Width="88.0981" FontSize="12" ID="24" Position="217.2,460.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Contact Us</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <BackgroundShapes/>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Green Bubble" ID="86C81940-B7AD-4499-AAFC-A1CB91D5E40C" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.399100 0.583322 0.354864</BorderColor>
+         <FillColor>0.808835 0.872419 0.801343</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectAlignment="Yes" Name="Title Text" ID="8161577C-C776-4AC7-8A38-E8B9026BB5C3" AffectTextColor="No" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>12.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Yellow Bubble" ID="9B045512-B97A-47F6-AA64-D7E3BD1D55BB" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.769436 0.762219 0.390143</BorderColor>
+         <FillColor>0.912963 0.894118 0.644541</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Brown Bubble" ID="17E1B389-DA63-4CD1-A65F-DFC34609FB3B" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.269490 0.164034 0.186694</BorderColor>
+         <FillColor>0.934157 0.888319 0.785290</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Red Text" ID="5BFAA285-3D00-4642-AF0B-F25B62FB1505" AffectTextColor="Yes" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <TextColor>1.0 0.0 0.0</TextColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Blue Bubble" ID="85FB9C42-F9D9-4C64-BFC6-D2EA0745500F" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.485893 0.568933 0.756207</BorderColor>
+         <FillColor>0.844068 0.869596 0.923064</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Pink Bubble" ID="9860A0FD-B03D-42B2-8E19-CB9D2D451670" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.690303 0.407263 0.550912</BorderColor>
+         <FillColor>0.898329 0.817472 0.865339</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988006 0.945006</BackgroundColor>
+      <DefaultFont>Helvetica</DefaultFont>
+      <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+   </UISettings>
+   <PrintSettings VerticalPagination="Auto" HorizontalPagination="Clip" Orientation="Portrait" RightMargin="12.000000" BottomMargin="12.000000" HorizontallyCentered="Yes" ScaleFactor="1.000000" PagesAcross="1" PaperType="na-letter" PagesDown="1" TopMargin="12.000000" Collates="Yes" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" VerticallyCentered="Yes"/>
+</ScappleDocument>
